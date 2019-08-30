@@ -1,0 +1,1 @@
+testing binder for class

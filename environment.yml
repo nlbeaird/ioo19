@@ -1,0 +1,17 @@
+name: ioo19
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - xarray
+  - netcdf4
+  - dask
+  - scipy
+  - geopandas
+  - cartopy
+  - oceans
+  - gsw
+  - seawater
+  - jupyter
+  - numba
+  - matplotlib
