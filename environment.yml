@@ -12,6 +12,5 @@ dependencies:
   - oceans
   - gsw
   - seawater
-  - jupyter
   - numba
   - matplotlib
